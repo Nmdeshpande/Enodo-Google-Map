@@ -1,4 +1,4 @@
-# To run the project run below command 
+# Google Map
 
 npm install
 npm run serve
